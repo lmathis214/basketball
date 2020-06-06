@@ -1,0 +1,31 @@
+body, html{
+    height: 100%;
+    margin: 0;
+    color: white;
+} 
+
+#bg{
+    background-image: url("./images/circlecity.jfif");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#jumb{
+    /* border: 5px solid red; */
+    border-radius: 10px;
+    background-color: white;
+    opacity: 0.5;
+    color: black;
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+
+ /* #check
+{
+overflow: auto;
+}
+    */
+   
