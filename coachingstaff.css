@@ -1,0 +1,24 @@
+#background{
+    background-image: url("./images/519826_f8f5028c0c68468b86177eeaa44d5d99.jpg"); 
+background-size:cover; 
+background-repeat: no-repeat;
+background-position: center;
+opacity: 1;
+}
+
+body{
+    color:grey;
+}
+    h1{
+        text-align: center;
+    }
+#clean{
+    font-weight: 900;
+}
+
+
+
+
+
+
+
