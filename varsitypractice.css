@@ -1,0 +1,31 @@
+table{
+   
+    margin: 50px;
+}
+
+#back{
+    background-image: url("./images/roncalli-high-school-heritage-christian-school-circle-city-conference-pursuit.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+table.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+th{
+    height: 50px;
+    text-align: center;
+    background-color: red;
+}
+
+tr{
+    text-align: center;
+}
+
+th, td{
+    padding: 15px;
+    border-bottom: 1px solid black;
+}
